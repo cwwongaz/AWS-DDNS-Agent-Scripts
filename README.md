@@ -6,9 +6,11 @@ Remark: The powershell script referenced the script for aws DDNS script for linu
 Prerequisite: 
   - Linux:
       - aws cli installed
+      - Set up aws cli configs (Need an IAM account set up with proper permissions)
       - sudo apt install jq
   - Windows:
       - aws cli installed
+      - Set up aws cli configs (Need an IAM account set up with proper permissions)
 
 Usage 
 - Linux:
